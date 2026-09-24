@@ -1,0 +1,24 @@
+# JSON data files (runtime par generate hote hain)
+credits.json
+redeem_codes.json
+config.json
+referrals.json
+pending_refs.json
+banned.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Environment
+.env
